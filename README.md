@@ -8,6 +8,10 @@ To answer this question, we designed a data visualization that would allow users
 
 The chess data was collected from over 20,000 chess games from LiChess, source: https://www.kaggle.com/datasnaek/chess
 
+To run this project, download or clone the repository, and navigate to the top-level directory through Terminal. It should be named Data-Vis-Group-Project-master. If you are running python2.x, then issue: python -m SimpleHTTPServer in your application. If you are running python3.x, then issue: python -m http.server. You will now be running a local server on your machine.
+
+Open up your Google Chrome browser and go to the following URL: http://localhost:8000/Data-Vis-Group-Project-master.
+
 ## Interactivity
 
 The main way of interacting with our visualization is through the heatmap.
